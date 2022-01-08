@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/quanlyhocba/BuildConfig.java
+ com.example.quanlyhocba.BuildConfig
